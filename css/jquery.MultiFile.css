@@ -1,0 +1,42 @@
+
+#FileUploaderDiv {
+	margin:10px;
+	background-color:#F2F9FF;
+	border:1px solid #DFEEFF;
+	padding:10px;
+	width:800px; /*Added*/
+}
+
+#FileUploaderDiv h1, #FileUploaderDiv h2 {
+	font-size:25px;
+	font-weight:500;
+	margin:10px 0px;
+}
+
+#FileUploaderDiv p {
+	font-size:12px;
+	margin:5px 0px;
+}
+#FileUploaderList {
+	border:1px #009900 solid;
+	background:#c7f699;
+	padding:7px;
+	width:204px;
+}
+
+#FileUploaderList p {
+	font-weight:bold;
+	color:#009900;
+}
+
+#FileUploaderList a{
+	background:url(img/delete.gif) no-repeat;
+	display:block;
+	text-indent:-900000px;
+	width:16px;
+	height:16px;
+	float:right;
+	text-decoration:none; /*Added*/
+}
+
+
